@@ -4,7 +4,7 @@
 
 .row {
     padding: 20px;
-    height: 800px;
+    height: 400px;
     background-color: rgb(29, 97, 97);
 }
 
@@ -16,4 +16,10 @@
 
 h1 {
     color: white;
+}
+
+.jumbo {
+    padding: 10px;
+    height: 175px;
+    background-color: rgb(83, 158, 207);
 }
