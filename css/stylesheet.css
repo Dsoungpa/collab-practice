@@ -1,0 +1,19 @@
+.row{
+    height: 1000px;
+}
+
+.nav{
+    background-color: rgb(112, 112, 233);
+}
+
+.left{
+    background-color: rgb(220, 85, 85);
+}
+
+.right{
+    background-color: rgb(255, 187, 119);
+}
+
+.footer{
+    background-color: rgb(150, 209, 92);
+}
